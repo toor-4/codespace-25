@@ -1,0 +1,21 @@
+{
+  "name": "codespace-25",
+  "version": "1.0.0",
+  "description": "Authentication System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "al",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.4",
+    "npm": "^11.0.0",
+    "start": "^5.1.0"
+  }
+}
